@@ -2,7 +2,7 @@
   "name": "monsters-rol",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://mohamednageh7.github.io/monster-rol",
+  "homepage":"https://github.com/mohamednageh7/monster-rol",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
